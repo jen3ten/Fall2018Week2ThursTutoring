@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\TutoringPractice_09132018\TutoringPractice_09132018\bin\Debug\TutoringPractice_09132018.exe.config
+C:\Users\WeCanCodeIT\source\repos\TutoringPractice_09132018\TutoringPractice_09132018\bin\Debug\TutoringPractice_09132018.exe
+C:\Users\WeCanCodeIT\source\repos\TutoringPractice_09132018\TutoringPractice_09132018\bin\Debug\TutoringPractice_09132018.pdb
+C:\Users\WeCanCodeIT\source\repos\TutoringPractice_09132018\TutoringPractice_09132018\obj\Debug\TutoringPractice_09132018.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\TutoringPractice_09132018\TutoringPractice_09132018\obj\Debug\TutoringPractice_09132018.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\TutoringPractice_09132018\TutoringPractice_09132018\obj\Debug\TutoringPractice_09132018.exe
+C:\Users\WeCanCodeIT\source\repos\TutoringPractice_09132018\TutoringPractice_09132018\obj\Debug\TutoringPractice_09132018.pdb
